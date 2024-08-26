@@ -1,0 +1,6 @@
+.idea
+vendor
+.env
+dbdata
+postgres/data
+code/basic/vendor
